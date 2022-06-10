@@ -1,0 +1,6 @@
+data/train
+data/train/
+env/
+data.zip
+data/
+__pycache__/
